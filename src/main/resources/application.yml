@@ -10,6 +10,8 @@ spring:
     cache: false
     template-loader-path: classpath:/templates
     suffix: .ftl
+  jwt:
+    secret: govlepel@$&
 
 ---
 
